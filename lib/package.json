@@ -14,5 +14,10 @@
     "grunt-contrib-watch": "^1.1.0",
     "grunt-eslint": "^21.0.0",
     "matchdep": "^2.0.0"
+  },
+  "dependencies": {
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
+    "set-value": "^2.0.1"
   }
 }
